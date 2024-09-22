@@ -10,9 +10,10 @@ The goal of this project is twofold:
 1. **Scraping and Analysis**: Collect data from various outlets on special products, including reviews and product features.
 2. **Sales Prediction**: Use the provided dataset to predict outlet sales using machine learning models.
 
-### Data Source
-
-The primary dataset used for sales prediction is obtained from the [Patanjali Kaggle Dataset](https://www.kaggle.com). This dataset includes information about various products sold through outlets, along with details on outlet characteristics and sales history.
+![Image 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAttfNj723b1QXE8IavHD_f7ApvvLPzNLcvg&s)
+![Image 2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAttfNj723b1QXE8IavHD_f7ApvvLPzNLcvg&s)
+![Image 3](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAttfNj723b1QXE8IavHD_f7ApvvLPzNLcvg&s)
+![Image 4](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAttfNj723b1QXE8IavHD_f7ApvvLPzNLcvg&s)
 
 ## Key Features
 
@@ -30,6 +31,7 @@ The primary dataset used for sales prediction is obtained from the [Patanjali Ka
      - Product distribution by fat content and type.
      - Overall sales distribution across different outlets.
 
+
 ## Tools and Technologies
 
 - **Data Scraping**: BeautifulSoup, Requests
@@ -37,40 +39,14 @@ The primary dataset used for sales prediction is obtained from the [Patanjali Ka
 - **Visualization**: Power BI
 - **Dataset**: Patanjali Kaggle dataset
 
-## Installation and Usage
 
-### Prerequisites
+### Data Source
 
-- Python 3.x
-- Required Python libraries: BeautifulSoup, requests, pandas, numpy, scikit-learn
-- Power BI Desktop for visualization (optional)
+The primary dataset used for sales prediction is obtained from the [Global Data]([https://www.kaggle.com](https://www.globaldata.com/company-profile/ruchi-soya-industries-ltd/premium-data/),  [Patanjali Kaggle Dataset](https://www.kaggle.com),  [Patanjali's Stock Kaggle Dataset]([https://www.kaggle.com](https://www.kaggle.com/datasets/nitirajkulkarni/patanjali-ns-stock-performance)). This dataset includes information about various products sold through outlets, along with details on outlet characteristics and sales history.
 
-### Steps to Run the Project
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/patanjali-outlet-sales-analysis.git
-   cd patanjali-outlet-sales-analysis
-   ```
 
-2. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Data Scraping**:
-   - The script for scraping outlet data can be run using:
-     ```bash
-     python scrape_outlets.py
-     ```
-
-4. **Run Sales Prediction**:
-   - Train and evaluate models for sales prediction using:
-     ```bash
-     python sales_prediction.py
-     ```
-
-5. **Visualization**:
+**Visualization**:
    - The Power BI `.pbix` file can be opened in Power BI Desktop for an interactive dashboard view.
 
 ## Results
