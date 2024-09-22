@@ -42,7 +42,7 @@ The goal of this project is twofold:
 
 ### Data Source
 
-The primary dataset used for sales prediction is obtained from the [Global Data]([https://www.kaggle.com](https://www.globaldata.com/company-profile/ruchi-soya-industries-ltd/premium-data/),  [Patanjali Kaggle Dataset](https://www.kaggle.com),  [Patanjali's Stock Kaggle Dataset]([https://www.kaggle.com](https://www.kaggle.com/datasets/nitirajkulkarni/patanjali-ns-stock-performance)). This dataset includes information about various products sold through outlets, along with details on outlet characteristics and sales history.
+The primary dataset used for sales prediction is obtained from the [Global Data](https://www.globaldata.com/company-profile/ruchi-soya-industries-ltd/premium-data/),   [Patanjali's Stock Kaggle Dataset](https://www.kaggle.com/datasets/nitirajkulkarni/patanjali-ns-stock-performance). This dataset includes information about various products sold through outlets, along with details on outlet characteristics and sales history.
 
 
 
