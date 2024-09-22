@@ -10,10 +10,10 @@ The goal of this project is twofold:
 1. **Scraping and Analysis**: Collect data from various outlets on special products, including reviews and product features.
 2. **Sales Prediction**: Use the provided dataset to predict outlet sales using machine learning models.
 
-![Image 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAttfNj723b1QXE8IavHD_f7ApvvLPzNLcvg&s)
-![Image 2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAttfNj723b1QXE8IavHD_f7ApvvLPzNLcvg&s)
-![Image 3](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAttfNj723b1QXE8IavHD_f7ApvvLPzNLcvg&s)
-![Image 4](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAttfNj723b1QXE8IavHD_f7ApvvLPzNLcvg&s)
+![Image 1](patanjali_outlet_sales_analysis_page-0001.jpg)
+![Image 2](patanjali_outlet_sales_analysis_page-0002.jpg)
+![Image 3](patanjali_outlet_sales_analysis_page-0003.jpg)
+![Image 4](patanjali_outlet_sales_analysis_page-0004.jpg)
 
 ## Key Features
 
